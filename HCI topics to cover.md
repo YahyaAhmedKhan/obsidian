@@ -3,7 +3,7 @@
 
 ### Norman’s “Seven Stages of Action
 - Ex 7.5.2, page 282
-- CSFDERLM
+- CSFDERLM or REDCFLMS
 
 ### Abowd and Beale Framework
 - Refer to: [Abowd and Beale Framework PDF](https://www.hcibook.com/hcibook/downloads/pdf/slides.3.pdf)

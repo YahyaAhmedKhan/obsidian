@@ -53,7 +53,7 @@ Example: A mobile app provides a dashboard that consolidates relevant informatio
 # Nielsen’s ten heuristics  
 Mnemonic: CURVE-MFAHH
 
-# 1. Visibility of system status
+## 1. Visibility of system status
 
 Always keep users informed about what is going on, through appropriate feedback within reasonable time. For example, if a system operation will take some time, give an indication of how long and how much is complete.
 
@@ -79,7 +79,7 @@ Make objects, actions and options visible. The user should not have to remember 
 
 ## 7. Flexibility and efficiency of use 
 
-Allow users to tailor frequent actions.Accelerators – unseen by the novice user – may often speed up the interaction for the expert user to such an extent that the system can cater to both inexperienced and experienced users.
+Allow users to tailor frequent actions. Accelerators – unseen by the novice user – may often speed up the interaction for the expert user to such an extent that the system can cater to both inexperienced and experienced users.
 
 ## 8. Aesthetic and minimalist design 
 
@@ -96,7 +96,7 @@ Few systems can be used with no instructions so it may be necessary to provide h
   
 
 # Norman’s 7 model of interaction  
-Mnemonic: EFSE-PIE
+Mnemonic: GIAE-PIE
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXenkmD9JUO_I_XKheXiS4u0Ap2plX74Nq6IdF0KSpW3G7z_SVa5N7sK_2l4tcrn7yGrhgiABIvbQYyoAo_R2LeChPClB-MMI6Q8n56V4eUL3C_P87qRdjJa3Tn7Hvh5A5QJnTeqRqrHKpxXULzHcix8vg3J?key=UKsncI7D-nhQ2xURrB4bag)
 
@@ -181,6 +181,7 @@ Another Example: Uploading a Photo on Instagram
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQEQtOhFNENaH4hsQ-x7-yQi_TiMB-MBWxd-SHSuIfSd79Z61Nb9oFb1lkO0xxxRwDBG5xFHgPsd2w7gOJjTbQt_5dv_WDdVzbnznnBdM3EAb0sYWqJBrvFLng-jRuSzZtKmqiFK_15FUF39bUWmmLjZfN?key=UKsncI7D-nhQ2xURrB4bag)
 
 # abowd and beale framework
+- SPOOUAIP
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-4mqqeaRQZEPUC1XoRA0iKC_K0SDcvGAt8QtNyXZA2rjeyNzGv4bQAXqrvOYMN1EADzupYkcfYuB19azQ7yQB3mD18LKfDCnUOi8A56RIzATK2SZpdvdv19M1QB7cP4N8A97YUcC6k7g2lCUMTKw-5ag?key=UKsncI7D-nhQ2xURrB4bag)
 
