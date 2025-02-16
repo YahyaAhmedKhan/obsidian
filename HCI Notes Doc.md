@@ -1,14 +1,17 @@
 # Shneiderman’s Eight Golden Rules of Interface Design 
 
 Mnemonic: Cats Sometimes Find Cute Elephants Running In Sand
+FEDS-RISC
+- feedback
+- 
 
-# 1. Strive for Consistency
+# 1. Strive for Consistency - c
 
 Explanation: Consistency in actions, layout, terminology, and command use helps users develop a clear understanding of how to interact with the system.
 
 Example: A word processor consistently uses the same keyboard shortcuts (like Ctrl+C for copy and Ctrl+V for paste) throughout the application. This familiarity reduces the learning curve for users.
 
-## 2. Enable Frequent Users to Use Shortcuts
+## 2. Enable Frequent Users to Use Shortcuts 
 
 Explanation: Providing shortcuts allows experienced users to perform familiar actions quickly, enhancing efficiency.
 
@@ -493,30 +496,27 @@ Definition: The ability of the user to take corrective action once an error has 
 # top 10 mistakes in design
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzxlJn2JQfJOT1dVGddex9jCVOCvG-0jqzHCBpkNYpEturHLru7Yi6XXFzkeW9kEdk00JnAyGsoZTGr5QuyUzxmGLZIL5ekJvMB83scwHqsxeJu3lkOdQxESoy3jQQdrbHE8eVWINBzkNPHm6NZ47drYpa?key=UKsncI7D-nhQ2xURrB4bag)  
-  
 
-Overuse of Pop-ups/Overlays: If the app has frequent notifications, prompts, or promotional offers that interrupt the user experience, it can frustrate users, especially when these pop-ups are difficult to dismiss.
+![[WhatsApp Image 2024-12-18 at 8.13.13 PM.jpeg]]
+1. Overuse of Pop-ups/Overlays: If the app has frequent notifications, prompts, or promotional offers that interrupt the user experience, it can frustrate users, especially when these pop-ups are difficult to dismiss.
 
-Slow Response Time: Users might experience lag when navigating the app, especially while performing critical transactions like money transfers or bill payments. Delays can lead to user dissatisfaction and even mistrust in completing sensitive transactions.
+2. Slow Response Time: Users might experience lag when navigating the app, especially while performing critical transactions like money transfers or bill payments. Delays can lead to user dissatisfaction and even mistrust in completing sensitive transactions.
 
-Layout Issues: If the app’s layout doesn't adapt well to different network speeds or is broken on slower connections, users may face difficulties accessing features or reading important information.
+3. Layout Issues: If the app’s layout doesn't adapt well to different network speeds or is broken on slower connections, users may face difficulties accessing features or reading important information.
 
-Inflexible Input Fields: If the app restricts copy-paste functionality in fields (e.g., bank account numbers, transaction IDs) or doesn't allow users to use keyboard shortcuts like Ctrl+C for copying information, it can hinder convenience.
+4. Inflexible Input Fields: If the app restricts copy-paste functionality in fields (e.g., bank account numbers, transaction IDs) or doesn't allow users to use keyboard shortcuts like Ctrl+C for copying information, it can hinder convenience.
 
-Low Contrast or Small Text: In cases where text fields or buttons are too small, or the contrast between text and background is too low, users with visual impairments or those using the app outdoors in bright light may struggle to read important information.
+5. Low Contrast or Small Text: In cases where text fields or buttons are too small, or the contrast between text and background is too low, users with visual impairments or those using the app outdoors in bright light may struggle to read important information.
 
-Icons without Labels: If the app uses icons that are not universally recognizable and doesn’t provide text labels, new users might struggle to understand the function of certain buttons or features.
+6. Icons without Labels: If the app uses icons that are not universally recognizable and doesn’t provide text labels, new users might struggle to understand the function of certain buttons or features.
 
-Inconsistent Mobile Design: If the design differs significantly between the mobile version and the web version of the app, users may find it hard to switch between platforms without a learning curve.
+7. Inconsistent Mobile Design: If the design differs significantly between the mobile version and the web version of the app, users may find it hard to switch between platforms without a learning curve.
 
-Limited Error Handling or Feedback: When errors occur (e.g., a failed transaction or input error), if the app doesn’t provide clear and actionable feedback, users may be confused about what went wrong and how to fix it.
+8. Limited Error Handling or Feedback: When errors occur (e.g., a failed transaction or input error), if the app doesn’t provide clear and actionable feedback, users may be confused about what went wrong and how to fix it.
 
-Misleading Links or Buttons: If buttons or links are placed in a confusing way or don't lead users where they expect, it could reduce trust in the app’s navigation flow.
+9. Misleading Links or Buttons: If buttons or links are placed in a confusing way or don't lead users where they expect, it could reduce trust in the app’s navigation flow.
 
-Large Image Files: If the app uses large image files for icons or background visuals, it may slow down load times on slower networks, leading to poor performance.
-
-  
-
+10. Large Image Files: If the app uses large image files for icons or background visuals, it may slow down load times on slower networks, leading to poor performance.
 ### Prototyping
 
 Definition:  

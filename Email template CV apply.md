@@ -1,3 +1,5 @@
+Application for Full-Stack Developer
+
 Hi,  
 I hope this email finds you well. I saw your ad for an AI/ML position on LinkedIn and I wanted to express my interest.  
   
@@ -9,4 +11,20 @@ Warm regards,
 
 Yahya Ahmed Khan  
 BSCS'25,  
+IBA
+
+---
+
+Application for Full-Stack Developer
+
+Hi,    
+I hope this email finds you well. I saw your ad for multiple positions on LinkedIn and I wanted to express my interest in the role for **Associate Software Engineer - Node JS**.    
+   
+I'm currently finishing my 7th semester CS student at IBA, with an interest in Backend and AI. I've worked on Flutter and Python/GeminiAPI in internships.  
+   
+I'm looking for any good opportunities that involve Backend/AI roles. I've attached my CV for your review and would love to hear back from you.    
+   
+Warm regards,  
+Yahya Ahmed Khan    
+BSCS'25,    
 IBA
