@@ -10,4 +10,16 @@
 - How llms handle long conversations
 - Lost in the middle
 - Catastrophic forgetting
+- Residual connections
+- BERT vs GPT
+- MoE models
+- Vector stores indexing
+- 
+-
+
+
+# Notes for studying
+
+![[Screenshot 2025-03-20 at 12.42.08 AM.png]]
+
 - 
